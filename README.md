@@ -24,4 +24,5 @@ Inserindo Leigos na Tecnologia utilizando IA
 Fornecer uma pespectiva para que pessoas leigas (em tecnologia / desenvolvimento / programação) possam começar a se inserir no mundo da tecnologia através da utilização de IA.
 
 ## ✨ Features
-- Conteúdo gerado via ChatGPT
+- Texto gerado via ChatGPT
+- Gravação gerada via ElevenLabs
